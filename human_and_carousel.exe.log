@@ -1,0 +1,494 @@
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13354, функция: bool {anonymous}::TX::txLine(double, double, double, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x36BC (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:04:33, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:04:39
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13354, функция: bool {anonymous}::TX::txLine(double, double, double, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x3048 (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13354, функция: bool {anonymous}::TX::txLine(double, double, double, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x944 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:06:48, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:06:56
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13354, функция: bool {anonymous}::TX::txLine(double, double, double, double, HDC),
+
+Сообщение: Если вы указали параметр "dc", то он неверен. Возможно, этот холст не создан, или уже уничтожен, или не загрузилась картинка.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0x1928 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:07:37, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:07:44
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13354, функция: bool {anonymous}::TX::txLine(double, double, double, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x29E4 (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:08:20, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:08:27
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13354, функция: bool {anonymous}::TX::txLine(double, double, double, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x1240 (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:28:44, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:28:56
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13354, функция: bool {anonymous}::TX::txLine(double, double, double, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdrE0, Thread: 0x3530 (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:29:26, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:29:34
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13222, функция: HPEN__* {anonymous}::TX::txSetColor(COLORREF, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0xE0C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:29:53, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:30:00
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13222, функция: HPEN__* {anonymous}::TX::txSetColor(COLORREF, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0x16E4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:33:02, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:33:08
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13222, функция: HPEN__* {anonymous}::TX::txSetColor(COLORREF, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0x2CC0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:36:36, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:36:44
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13222, функция: HPEN__* {anonymous}::TX::txSetColor(COLORREF, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0x279C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:37:36, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:37:43
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13222, функция: HPEN__* {anonymous}::TX::txSetColor(COLORREF, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0x16D8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:50:01, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 01:50:09
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13222, функция: HPEN__* {anonymous}::TX::txSetColor(COLORREF, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0x2600 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:50:01, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 02:01:34
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13222, функция: HPEN__* {anonymous}::TX::txSetColor(COLORREF, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0x2744 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:50:01, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 02:02:09
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13222, функция: HPEN__* {anonymous}::TX::txSetColor(COLORREF, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0xEF0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 01:50:01, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 02:04:46
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe, файл: c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h, строка: 13222, функция: HPEN__* {anonymous}::TX::txSetColor(COLORREF, double, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x004F42FC (32-bit), Flags: CMdRE0, Thread: 0xBC4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\admin\downloads\си\codeblocks\mingw\include\txlib.h
+Compiled:	Aug 31 2024 02:07:03, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Aug 31 2024 02:07:20
+
+Run file:	C:\Users\Admin\Desktop\human_and_carousel\human_and_carousel.exe
+Directory:	C:\Users\Admin\Desktop\human_and_carousel
+
+--------------------------------------------------
